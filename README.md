@@ -1,5 +1,11 @@
 # Cats vs Dogs Classifier 🐱🐶
 
+https://mfikrizaelani-klasifikasi-cat-vs-dog-menggunakan-cnn-app-tg4nzy.streamlit.app/
+
+<img width="1266" height="625" alt="image" src="https://github.com/user-attachments/assets/b14aa306-0ce2-4d01-b5e5-131bc381ae75" />
+
+---
+
 **Deskripsi singkat**
 
 Proyek ini adalah aplikasi klasifikasi gambar _Cats vs Dogs_ berbasis Convolutional Neural Network (CNN) yang dibuat dengan TensorFlow/Keras dan di-deploy menggunakan Streamlit. Aplikasi menerima upload gambar (single atau multiple), menampilkan prediksi kelas (Cat / Dog) beserta confidence dan visualisasi probabilitas.
