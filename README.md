@@ -86,14 +86,5 @@ Training dan eksperimen dilakukan pada notebook `uts-deepl-mfikrizaelani078.ipyn
 
 ---
 
-## Kontribusi & Lisensi 📝
 
-Kontribusi diterima melalui fork & pull request. Untuk penggunaan bebas, sertakan atribusi. (Anda dapat menambahkan lisensi resmi seperti MIT jika ingin)
-
----
-
-Jika Anda ingin, saya bisa menambahkan contoh screenshot, GIF singkat, atau petunjuk deploy (Heroku/Streamlit Cloud). 🔧
-
----
-
-© Project by [Your Name or Team]
+© Project by [M Fikri Zaelani]
